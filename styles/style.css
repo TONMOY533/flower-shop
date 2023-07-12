@@ -55,17 +55,20 @@ color: white;
 
 /*section 2 is here*/
 
-.o-i {
+.o-i { text-align: center;
+    padding: 178px 643px,800px;
+    margin-bottom: 50px;
+
 }
 
 .our {
-    text-align: center;
+    
     color: #272727;
     
 font-size: 40px;
 font-weight: 800;
 margin-bottom: 24px;
-margin-top: 178px ;
+
  
 }
 
@@ -76,7 +79,6 @@ margin-top: 178px ;
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    padding: 250px 666px 800px ;
     
     
     }
