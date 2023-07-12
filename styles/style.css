@@ -50,3 +50,93 @@ color: white;
     width: 635px;
     margin-bottom: 0px  ;
 }
+
+
+
+/*section 2 is here*/
+
+.o-i {
+}
+
+.our {
+    text-align: center;
+    color: #272727;
+    
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 24px;
+margin-top: 178px ;
+ 
+}
+
+.long {
+    text-align: center;
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 635px;
+
+    
+    
+    }
+    
+
+.imgd {
+    display: flex;
+    align-items: center;
+    padding: 360px 2400px;
+    
+    
+    gap: 20px;
+    
+    
+}
+
+.imgp {
+    text-align: center;
+     
+    display: block;
+    
+    
+
+    
+    
+}
+
+.imgbg {
+    width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+margin-bottom: 20px;}
+
+.imgbgt {
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+margin-bottom: 20px;
+
+}
+
+.imgbgth {
+    width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+margin-bottom: 22px;}
+
+#one {
+    padding: 67px 75px 0px;
+}
+
+#two {
+    padding: 67px 75px 0px;
+}
+
+#three {
+    padding: 67px 75px 0px;
+}
