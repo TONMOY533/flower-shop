@@ -70,13 +70,13 @@ margin-top: 178px ;
 }
 
 .long {
-    text-align: center;
+    
     width: 594px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    margin-left: 655px;
+    padding: 250px 666px 800px ;
     
     
     }
