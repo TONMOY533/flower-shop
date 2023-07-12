@@ -55,7 +55,7 @@ color: white;
 
 /*section 2 is here*/
 
-.o-i {
+.o-i { align-items: center;
 }
 
 .our {
@@ -75,12 +75,7 @@ margin-top: 178px ;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
-    line-height: 30px;
-    margin-left: 635px;
-
-    
-    
-    }
+}
     
 
 .imgd {
