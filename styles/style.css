@@ -49,14 +49,14 @@ color: white;
 .img {
     width: 635px;
     margin-bottom: 0px  ;
+    padding: 50 200 0 1040;
 }
 
 
 
 /*section 2 is here*/
 
-.o-i { text-align: center;
-    padding: 178px 643px,800px;
+.o-i { justify-content: center;
     margin-bottom: 50px;
 
 }
