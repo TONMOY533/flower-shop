@@ -286,7 +286,7 @@ margin-bottom: 20px;
 }
 
 .flg{
-    background-image: url('/fa/b.jpg');
+    background-image: url('./fa/b.jpg');
     background-size: cover;
     height: 100vh;
 }
