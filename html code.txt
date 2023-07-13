@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flower-shop</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <main>
+        <header id="mdec">
+            <div  class="banner">
+                
+                <div class=" text">
+                    <h1 class="let">Let's make <br>beautiful flowers a <br>part of your life.</h1>
+                    <p class="it-is">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is  that it has a more-or-less normal distribution of letters.</p>
+                    <button class="pts">SHOP NOW</button>
+                </div>
+    
+                <div><img class="img" src="fa/1.png" alt="" srcset=""></div>
+            </div>
+            </header>
+
+            
+               <section id="mdec">
+                <h3 class="our"> Our Featured Flowers</h3>
+
+                <p class="long"> <center> It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </center> </p>
+
+
+                <div  class="imgd">
+                    <div class="imgp">
+                    <img src="fa/2.png" id="one" class="imgbg">
+                        <p><u>Pink Flower Tree </u></p></div>
+                    <div class="imgp"><img src="fa/3.png" alt="" id="two" class="imgbgt">
+                        <p><u>Pink Flower Tree </u></p></div>
+                    <div class="imgp"><img src="fa/4.png" alt="" id="three" class="imgbgth">
+                        <p><u>Pink Flower Tree </u></p>
+                    </img></div>
+                </div>
+               </section>
+
+               <section id="mdec">
+                <div class="flg">
+                    <h1 class="af"> <font color="yellow">A Flower</font> <br>Can Give You Happiness...</h1>
+
+                </div>
+               </section>
+<section id="mdec">
+    <div class="banners">
+        <div class="hib">
+            <h1 class="ht">Hot Deal ! Sale Up To 25% <font color="#E55473">off </font></h1>
+            <p class="is">  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+            <button class="pts" id="btn"> Sign Up</button>
+         </div>
+
+         <div><img src="fa/5.png" alt=""></div>
+    </div>
+    </section>
+
+<section id="mdec">
+    <div class="insi">
+    <h3 class="ins"> Instagram</h3>
+    <p id="it-is-a" class="itis"> <center>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</center></p>
+    </div>
+<div class="mdec">
+
+    <div class="fldec">
+    
+    <div class="picsize"> 
+        <div class="imgsz">
+        <img src="fa/6.png" alt="">
+        <img src="fa/7.png" alt="">
+        <img src="fa/8.png" alt="">
+        <img src="fa/9.png" alt="">
+        </div>
+        </div>
+
+    <div class="bgpic">
+        
+            <h3 class="getthe"> <center>Get The Latest Deals</center></h3>
+        <p class="coupon">$30 coupon for first shopping</p>
+    
+
+        <div class="inpubtn">
+            <input class="inpu" type="Enter your email here...." value="Enter your email here....">
+            <button class="pts">Subscribe</button></div>
+</div>
+</div>
+
+
+</section>
+
+
+    </main>
+
+    <footer id="mdec">
+        <div class="ftext">
+            <h1 class="fs"> Flower<font color="white">Shop</font> </h1>
+            <p class="its">It is a long established fact that a reader will be distracted by the readable <br>content of a page when looking at its layout.</p>
+            <p class="cpr"> @2020-2023,FlowerShop.com. All rights reserved.</p>
+        </div>
+
+       
+        
+    </footer>
+</body>
+</html>
+</body>
+</html>

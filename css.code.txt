@@ -239,7 +239,7 @@ margin-bottom: 20px;
         margin: 0px 600px 200px 600px;
         width: 1440px;
         height: 449px;
-        background-image: url('../fa/A.png')
+        background-image: url('/fa/A.png')
         
     
     
@@ -342,5 +342,3 @@ font-size: 16px;
 font-weight: 400;
 margin-top: 32px;
 }
-
-
